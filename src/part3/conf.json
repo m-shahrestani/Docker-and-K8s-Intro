@@ -1,0 +1,4 @@
+{
+    "port" : 8080,
+    "URL": "http://api.weatherstack.com/current?access_key=304d4910bc112ec2cbed8d8073dbcaea&query=Tehran"
+}  
